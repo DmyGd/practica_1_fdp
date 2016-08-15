@@ -1,0 +1,6 @@
+//Gerardo
+int main()
+{
+  printf("Hola Mundo");
+  getchar();
+}
